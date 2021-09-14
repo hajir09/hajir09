@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @hajir09 (Ahman Nadhif Muhajir)
+# 👋 Hi, I’m @hajir09 (Ahmad Nadhif Muhajir)
 - 👀 I'm interested in web programming, games and graphic design
 - 💞️ I'm looking to collaborate on web or game development
 # 📫 How to reach me:
