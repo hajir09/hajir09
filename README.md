@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hajir09
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @hajir09 (Ahman Nadhif Muhajir)
+- 👀 I'm interested in web programming, games and graphic design
+- 💞️ I'm looking to collaborate on web or game development
+# 📫 How to reach me:
+- whatsapp: +6285710749545
+- ig: @mark_zukerbergs
 
 <!---
 hajir09/hajir09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
