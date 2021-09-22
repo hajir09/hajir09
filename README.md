@@ -3,7 +3,7 @@
 - 💞️ I'm looking to collaborate on web or game development
 # 📫 How to reach me:
 - Whatsapp: https://wa.me/+6285710749545
-- Instagram: https://www.instagram.com/mark_zukerbergs/
+- Instagram: https://www.instagram.com/nadhif_muhajir/
 
 <!---
 hajir09/hajir09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
